@@ -3,7 +3,12 @@
 
 This project aimed at creating a line follower buggy robot, which would follow a track equipped with 3 gantries. The buggy would stop at each gantry and finally at the end of the track. This was a group project where I learned how to design a transmitter, receiver and IR sensor module using Autodesk Eagle and then soldered all components onto the breadboard to create each circuit. These were then attached to the buggy. We then wrote an arduino code to move the buggy in our own specified directions  like left, right, forward, backward, clockwise and anti clockwise by setting the pins 5, 6, 7, 8 on Nvis 3302ARD RoboCar accordingly to either high or low as per the logic required. 
 
-For reference kindly see the demo video.
+For reference kindly see the demo video:
+
+
+https://github.com/user-attachments/assets/32d84f8c-5126-470d-9c95-a6488d371dae
+
+
 
 1. Designing & Testing Transmitter Circuit:
    The transmitter circuit generates rectangular pulses of specific pulse width for IR emitter corresponding to each Gantry.
