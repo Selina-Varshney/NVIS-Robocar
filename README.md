@@ -3,7 +3,7 @@
 1. Designing & Testing Transmitter Circuit:
    The transmitter circuit generates rectangular pulses of specific pulse width for IR emitter corresponding to each Gantry.
    
-![image](https://github.com/user-attachments/assets/ff5568f4-63a8-46e2-8d59-09bb42695fbd) ![image](https://github.com/user-attachments/assets/54ebc53c-f731-459a-b414-757340933a74)
+![image](https://github.com/user-attachments/assets/ff5568f4-63a8-46e2-8d59-09bb42695fbd | width=100) ![image](https://github.com/user-attachments/assets/54ebc53c-f731-459a-b414-757340933a74)
 
 
 3. Designing & Testing Receiver Circuit:
