@@ -3,13 +3,13 @@
 1. Designing & Testing Transmitter Circuit:
    The transmitter circuit generates rectangular pulses of specific pulse width for IR emitter corresponding to each Gantry.
 <div>
-   <image src="https://github.com/user-attachments/assets/ff5568f4-63a8-46e2-8d59-09bb42695fbd" width=500 height=400>  <image src="https://github.com/user-attachments/assets/54ebc53c-f731-459a-b414-757340933a74" width=500 height=400>
+   <image src="https://github.com/user-attachments/assets/ff5568f4-63a8-46e2-8d59-09bb42695fbd" width=500 height=300>  <image src="https://github.com/user-attachments/assets/54ebc53c-f731-459a-b414-757340933a74" width=500 height=300>
    </div>
 
 2. Designing & Testing Receiver Circuit:
 The receiver circuit can sense the signal of IR pulse from a specific gantry and able to recognize it based on respective pulse width.
 <div>
-   <image src="https://github.com/user-attachments/assets/bc4a1f57-596f-42bc-b9a2-d16f4f84116b" width=500 height=400>  <image src="https://github.com/user-attachments/assets/292fe5d8-db06-43e1-8968-86afafc8a732" width=500 height=400>
+   <image src="https://github.com/user-attachments/assets/bc4a1f57-596f-42bc-b9a2-d16f4f84116b" width=500 height=300>  <image src="https://github.com/user-attachments/assets/292fe5d8-db06-43e1-8968-86afafc8a732" width=500 height=300>
    </div>
 ![image](https://github.com/user-attachments/assets/bc4a1f57-596f-42bc-b9a2-d16f4f84116b)
 ![image](https://github.com/user-attachments/assets/292fe5d8-db06-43e1-8968-86afafc8a732)
