@@ -20,7 +20,7 @@ The receiver circuit can sense the signal of IR pulse from a specific gantry and
 
 3. Designing & Testing IR sensor circuit:
 IR sensor module circuit helps Buggy robot to move on a predefined path as a line follower. It consists of a pair of IR sensors, with one acting
-as a transmitter and the other as a receiver. The reflection of the rays from a white surface, resulted in the LED being turned on. Conversely, a black surface absorbed the IR rays, which did not turn the LED on.
+as a transmitter and the other as a receiver. The reflection of the rays from a white surface, resulted in the LED being turned on. Conversely, a black surface absorbed the IR rays, which did not turn the LED on. This information can be used to code the logic to move the buggy.
 <div>
    <image src="https://github.com/user-attachments/assets/981af4c0-b28f-486f-b214-762bf4a1847c" width=500 height=300>  <image src="https://github.com/user-attachments/assets/2344bfb2-4a3e-4b9c-843d-a4fca5d97289" width=500 height=300>
    </div>
